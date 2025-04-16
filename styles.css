@@ -1,0 +1,9 @@
+.card {
+    font-size: 150px;
+}
+
+#cardGrid {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    width: 50vw;
+}
